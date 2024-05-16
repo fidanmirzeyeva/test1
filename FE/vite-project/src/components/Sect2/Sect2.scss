@@ -1,0 +1,43 @@
+.sect2_hero{
+    height: 600px;
+   
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+}
+.sect2_hero_info2{
+    display: flex;
+}
+.sect2_hero_info1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.sect2_icon{
+    font-size: 80px;
+    opacity: 0.5    ;
+}
+.sect2_text{
+    font-size: 50px;
+}
+.sect2_hero_info2{
+    display: flex;
+    gap: 50px;
+}
+.yazi{
+    width: 350px;
+    
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    gap: 20px;
+    h3{
+        font-size: 30px;
+    }
+    p{
+       font-size: 22px;
+        opacity: 0.5;
+    }
+}

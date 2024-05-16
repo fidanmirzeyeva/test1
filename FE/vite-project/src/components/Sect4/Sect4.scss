@@ -1,0 +1,47 @@
+.sect4_hero{
+    height: 500px;
+   
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+}
+.sect4_hero_info2{
+    display: flex;
+}
+.sect4_hero_info1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.sect4_icon{
+    font-size: 60px;
+    opacity: 0.5    ;
+}
+.sect4_text{
+    font-size: 50px;
+}
+.sect4_hero_info2{
+    display: flex;
+    gap: 50px;
+}
+.yazi_sect4{
+    width: 250px;
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    gap: 20px;
+    h3{
+        font-size: 25px;
+    }
+    p{
+        font-size: 18px;
+        opacity: 0.5;
+    }
+}
+.sari{
+    font-size: 30px;
+    color: yellow;
+}
